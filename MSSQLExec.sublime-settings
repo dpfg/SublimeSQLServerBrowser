@@ -1,0 +1,31 @@
+{
+	"active_server" : "EPBYMINW3155",
+
+	"servers" : {
+		"LocalMachine" : {
+			// Available options: mssql, oracle, mysql #TODO
+			"db_engine" : "msssql",
+			"server" : "localhost",
+			"port" : 1433,
+			"app_name" : null,
+		    "dbname" : "master",
+		    "username" : "Test",
+		    "password" : "123123",
+		    "timeout" : 0,
+		    "login_timeout" : 60,
+		    "charset" : "UTF-8"
+		},
+		"EPBYMINW3155" : {
+			"db_engine" : "msssql",
+			"server" : "host",
+			"port" : 1433,
+			"app_name" : null,
+		    "dbname" : "dbname",
+		    "username" : "sa",
+		    "password" : "sa",
+		   	"timeout" : 0,
+		    "login_timeout" : 60,
+		    "charset" : "UTF-8"
+		}
+	}
+}
