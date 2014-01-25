@@ -1,5 +1,5 @@
 {
-	"active_server" : "EPBYMINW3155",
+	"active_server" : "dev",
 
 	"servers" : {
 		"LocalMachine" : {
@@ -15,7 +15,7 @@
 		    "login_timeout" : 60,
 		    "charset" : "UTF-8"
 		},
-		"EPBYMINW3155" : {
+		"dev" : {
 			"db_engine" : "msssql",
 			"server" : "host",
 			"port" : 1433,
